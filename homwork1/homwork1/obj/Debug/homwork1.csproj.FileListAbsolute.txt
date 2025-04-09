@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive\Documents\homwork1\homwork1\bin\Debug\homwork1.exe.config
+C:\Users\user\OneDrive\Documents\homwork1\homwork1\bin\Debug\homwork1.exe
+C:\Users\user\OneDrive\Documents\homwork1\homwork1\bin\Debug\homwork1.pdb
+C:\Users\user\OneDrive\Documents\homwork1\homwork1\obj\Debug\homwork1.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\homwork1\homwork1\obj\Debug\homwork1.exe
+C:\Users\user\OneDrive\Documents\homwork1\homwork1\obj\Debug\homwork1.pdb
